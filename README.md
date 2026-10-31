@@ -1,10 +1,18 @@
 # Conditional-Binder-Design
 
-pH-conditional protein binder design.
-Entries to the Anthropic and Adaptyv Protein Design Competition 2026.
+De novo protein binders designed to act conditionally: on pH, on species, or
+on receptor state. Entries to the Anthropic x Adaptyv Protein Design
+Competition, 2026.
 
-Anusree Mulanthala Raj
-ORCID 0009-0000-1713-5700
+Anusree Mulanthala Raj. ORCID 0009-0000-1713-5700
 
-Private until 1 November 2026, when the competition closes.
-Contents and a description of the method will be added then.
+## Challenges
+
+- [`01-egfr/`](01-egfr/) - a pH-selective, human and mouse cross-reactive
+  binder for the EGFR extracellular region
+
+Further challenges will be added as they close.
+
+## Licence
+
+MIT. See `LICENSE`.
