@@ -78,7 +78,8 @@ target/
    6aru.cif                       # Source crystal structure
    EGFR_domainIII.pdb             # Trimmed design target
    *.fasta                        # Reference sequences
-design/                           # 20 predicted complexes
+   human_mouse_ecd_alignment.txt  # Human-mouse alignment
+designs/                          # 20 predicted complexes
 results/                          # Per-design analysis results
 ```
 
